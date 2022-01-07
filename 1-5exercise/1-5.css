@@ -1,0 +1,115 @@
+* {
+margin: o;
+padding: o;
+box-sizing: border-box;
+}
+
+header{
+ width: 100%;
+ padding: 20px 0;
+ margin: 0 auto; /* 中央寄せ（余白がないとできない）*/
+ text-align: center;
+}
+
+
+footer{
+  width: 100%;
+  height: 120px;
+  text-align: center;
+  line-height: 120px;
+  background-color:#848282;
+}
+
+.nav-list{
+  text-align: center;
+  padding: 15px 0;
+  margin: 0 auto;
+}
+
+.nav-list-item{
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.main{
+  width: 800px;
+  height: 600px;
+  padding: 50px 0;
+}
+
+.main2{
+  width: 200px;
+  height: 200px;
+  background-color:mediumaquamarine;
+}
+
+.main3{
+  width: 200px;
+  height: 200px;
+  background-color:mediumaquamarine;
+}
+
+.main4{
+  width: 200px;
+  height: 200px;
+  background-color:mediumaquamarine;
+}
+
+.main1{
+  width: 200px;
+  height: 200px;
+  background-color:mediumaquamarine;
+}
+
+.main1{
+  width: 200px;
+  height: 200px;
+  background-color:mediumaquamarine;
+}
+
+.main1{
+  width: 200px;
+  height: 200px;
+  background-color:mediumaquamarine;
+}
+
+.main1{
+  width: 200px;
+  height: 200px;
+  background-color:mediumaquamarine;
+}
+
+.main1{
+  width: 200px;
+  height: 200px;
+  background-color:mediumaquamarine;
+}
+
+.main1{
+  width: 200px;
+  height: 200px;
+  background-color:mediumaquamarine;
+}
+
+.main1{
+  width: 200px;
+  height: 200px;
+  background-color:mediumaquamarine;
+}
+
+.main1{
+  width: 200px;
+  height: 200px;
+  background-color:mediumaquamarine;
+}
+
+.main1{
+  width: 200px;
+  height: 200px;
+  background-color:mediumaquamarine;
+}
+
+.footer-text{
+  color: #fff;
+}
