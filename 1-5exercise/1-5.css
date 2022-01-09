@@ -11,13 +11,12 @@ header{
  text-align: center;
 }
 
-
-footer{
-  width: 100%;
-  height: 120px;
-  text-align: center;
-  line-height: 120px;
-  background-color:#848282;
+.nav-list{
+  border: solid rgba(160, 155, 155, 0.527);
+  border-top-width: 2px;
+  border-right-width: 0px;
+  border-left-width: 0px;
+  border-bottom-width: 2px;
 }
 
 .nav-list{
@@ -36,78 +35,90 @@ footer{
   width: 800px;
   height: 600px;
   padding: 50px 0;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.main1{
+  width: 200px;
+  height: 200px;
+  background-color:#e6ffe9;
 }
 
 .main2{
   width: 200px;
   height: 200px;
-  background-color:mediumaquamarine;
+  background-color:#cbffd3;
 }
 
 .main3{
   width: 200px;
   height: 200px;
-  background-color:mediumaquamarine;
+  background-color:#aeffbd;
 }
 
 .main4{
   width: 200px;
   height: 200px;
-  background-color:mediumaquamarine;
+  background-color:#93ffab;
 }
 
-.main1{
+.main5{
   width: 200px;
   height: 200px;
-  background-color:mediumaquamarine;
+  background-color:#f3ffd8;
 }
 
-.main1{
+.main6{
   width: 200px;
   height: 200px;
-  background-color:mediumaquamarine;
+  background-color:#edffbe;
 }
 
-.main1{
+.main7{
   width: 200px;
   height: 200px;
-  background-color:mediumaquamarine;
+  background-color:#e9ffa5;
 }
 
-.main1{
+.main8{
   width: 200px;
   height: 200px;
-  background-color:mediumaquamarine;
+  background-color:#e4ff8d;
 }
 
-.main1{
+.main9{
   width: 200px;
   height: 200px;
-  background-color:mediumaquamarine;
+  background-color:#d9e5ff;
 }
 
-.main1{
+.main10{
   width: 200px;
   height: 200px;
-  background-color:mediumaquamarine;
+  background-color:#bad3ff;
 }
 
-.main1{
+.main11{
   width: 200px;
   height: 200px;
-  background-color:mediumaquamarine;
+  background-color:#a4c6ff;
 }
 
-.main1{
+.main12{
   width: 200px;
   height: 200px;
-  background-color:mediumaquamarine;
+  background-color:#8eb8ff;
 }
 
-.main1{
-  width: 200px;
-  height: 200px;
-  background-color:mediumaquamarine;
+
+footer{
+  width: 100%;
+  height: 120px;
+  text-align: center;
+  line-height: 120px;
+  background-color:#848282;
 }
 
 .footer-text{
