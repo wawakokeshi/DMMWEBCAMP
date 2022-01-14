@@ -12,31 +12,31 @@ header {
 
 main{
   margin: 50px auto;
-  height: 100%;
   width: 960px;
   display: flex;
-  position: relative;
 }
-
-.step{
-  position: absolute;
-  background-color: #FF9A4B;
-  color: white;
-}
-
 
 .main-box{
   margin-right: 30px;
   padding: 10px;
   width: 300px;
   background-color: #EEEEEE;
-  display: inline-block;
+  position: relative;
 }
 
+.main-box:last-child{
+  margin-right: 0;
+}
 
+.step{
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #FF9A4B;
+  color: white;
+}
 
 .main-img1{
-  width: 280px;
   height: 150px;
   background-image: url(img/flow01.png);
   background-size: cover;
@@ -45,7 +45,7 @@ main{
 
 
 
-.section{
+section{
  margin-top: 15px;
  margin-bottom: 5px;
 }
