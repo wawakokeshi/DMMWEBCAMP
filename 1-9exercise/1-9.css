@@ -22,13 +22,20 @@ main{
   padding: 10px;
   width: 300px;
   background-color: #EEEEEE;
+  display: inline-block;
+}
+
+.step{
+  background-color: #FF9A4B;
+  font-color: white;
 }
 
 .main-img1{
-  position: relative;
   width: 280px;
   height: 150px;
   background-image: url(img/flow01.png);
+  background-size: cover;
+  background-position: bottom;
 }
 
 
@@ -39,18 +46,24 @@ main{
 }
 
 .main-img2{
-  position: relative;
   width: 280px;
   height: 150px;
   background-image: url(img/flow02.png);
+  background-size: cover;
+  background-position: bottom;
 }
 
+
+
 .main-img3{
-  position: relative;
   width: 280px;
   height: 150px;
   background-image: url(img/flow03.png);
+  background-size: cover;
+  background-position: bottom;
 }
+
+
 
 
 footer {
