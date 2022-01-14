@@ -15,7 +15,15 @@ main{
   height: 100%;
   width: 960px;
   display: flex;
+  position: relative;
 }
+
+.step{
+  position: absolute;
+  background-color: #FF9A4B;
+  color: white;
+}
+
 
 .main-box{
   margin-right: 30px;
@@ -25,10 +33,7 @@ main{
   display: inline-block;
 }
 
-.step{
-  background-color: #FF9A4B;
-  font-color: white;
-}
+
 
 .main-img1{
   width: 280px;
